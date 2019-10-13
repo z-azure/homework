@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E6357E75-5E90-783A-2D61-54A763E28F81}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/control.cs">
+    <Files>
+      <File FileName="Assets/control.cs" Line="37" Column="25" />
+      <File FileName="Assets/movecontrol.cs" Line="35" Column="17" />
+      <File FileName="Assets/factory.cs" Line="45" Column="103" />
+      <File FileName="Assets/ruler.cs" />
+      <File FileName="Assets/test.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HitUFO进阶版" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="control.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5b1efd19-582d-4263-ae75-1a7bd499987d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
