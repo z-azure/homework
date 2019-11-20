@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{11B3C044-22A1-219B-B330-CD7B61B28A98}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/lookcamera.cs">
+    <Files>
+      <File FileName="Assets/MGUI.cs" Line="14" Column="17" />
+      <File FileName="Assets/lookcamera.cs" Line="13" Column="18" />
+      <File FileName="Assets/newcontrol.cs" Line="8" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ui_make" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="676b8db2-8c6a-42f4-a03a-b0380f9a39dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
