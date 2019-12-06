@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/controller/userGUI.cs">
+    <Files>
+      <File FileName="Assets/controller/tank.cs" Line="27" Column="6" />
+      <File FileName="Assets/controller/player.cs" Line="16" Column="10" />
+      <File FileName="Assets/controller/AItank.cs" Line="44" Column="6" />
+      <File FileName="Assets/controller/bullet.cs" />
+      <File FileName="Assets/controller/factory.cs" Line="83" Column="6" />
+      <File FileName="Assets/controller/single.cs" />
+      <File FileName="Assets/controller/SceneController.cs" Line="55" Column="6" />
+      <File FileName="Assets/controller/userGUI.cs" Line="40" Column="1" />
+      <File FileName="Assets/controller/director.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tank" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="controller" expanded="True">
+                <Node name="userGUI.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Tank" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1063fe40-d69b-4c61-a512-68587f609651" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
