@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C87DF9D0-E534-12D0-A73A-38E710C6E904}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/control.cs">
+    <Files>
+      <File FileName="Assets/control.cs" Line="34" Column="6" />
+      <File FileName="Assets/director.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VR_class_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="control.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7eeb23ab-7fe6-4433-aa56-07841659bae9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
